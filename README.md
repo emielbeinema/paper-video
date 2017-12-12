@@ -42,5 +42,5 @@ The following properties are available:
 | `controls` | Enable/Disable the controls | `false` |
 | `loop` | Playing the video again if it's ended | `false` |
 | `muted` | Sets video to muted mode | `false` |
-| `preload` | Loading the video, when the page loads | `false` |
+| `preload` | Loading the video, when the page loads | `''` |
 | `video-volume` | Sets video volume | `100` |
